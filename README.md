@@ -65,6 +65,3 @@ Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE
 ---
 
 Feito com ❤️ por Alan Freitas
-```
-
-Esse **README** é claro e bem estruturado, explicando as tecnologias utilizadas, como o projeto está organizado, e como colaborar. Se houver algo que você queira adicionar ou modificar, é só me avisar!
